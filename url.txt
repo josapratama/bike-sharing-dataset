@@ -1,1 +1,5 @@
 Bike Sharing Dataset = https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset
+
+github = https://github.com/josapratama/bike-sharing-dataset
+
+proyek deploy = https://bike-sharing-dataset-jopra.streamlit.app/
