@@ -54,5 +54,5 @@ Proyek ini bertujuan untuk menganalisis data penyewaan sepeda menggunakan datase
 
 ## Catatan
 
-- Pastikan Anda berada di direktori utama proyek (submission) saat menjalankan perintah di atas.
+- Pastikan Anda berada di direktori utama proyek (bike-sharing-dataset) saat menjalankan perintah di atas.
 - Sesuaikan path atau konfigurasi jika Anda menggunakan lingkungan virtual atau struktur folder yang berbeda.
