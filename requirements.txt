@@ -1,0 +1,6 @@
+folium==0.17.0
+matplotlib==3.9.1.post1
+pandas==2.2.2
+scikit_learn==1.5.1
+seaborn==0.13.2
+streamlit==1.37.1
